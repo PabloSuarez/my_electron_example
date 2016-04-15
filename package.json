@@ -1,0 +1,22 @@
+{
+  "name": "my_electron_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloSuarez/my_electron_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloSuarez/my_electron_example/issues"
+  },
+  "homepage": "https://github.com/PabloSuarez/my_electron_example#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.6"
+  }
+}
